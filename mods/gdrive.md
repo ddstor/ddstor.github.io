@@ -39,6 +39,8 @@
 04-poliglot--mod07-les02.mp4    1Tb4vAmV0f98NZKdCckE0-oFlLNhijul2
 04-poliglot--mod07-les03.mp4    1Vnf2yRyb36X3hLEa51tIgvXQePb-cKM-
 
+=======================
+
 04-poliglot--mod08-les01.mp4    1cBvK_4V2dL4wr4xO_yaXpfLJDJGblVLb
 04-poliglot--mod08-les02.mp4    1u69t-H7Kjd8uKYlUT6cxlFHou5R_C2c5
 04-poliglot--mod08-les03.mp4    1hN6Azr9paugGD0e4frFRR_bmr1g1lwns
