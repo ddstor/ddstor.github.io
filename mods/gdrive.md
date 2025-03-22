@@ -44,8 +44,6 @@
 04-poliglot--mod08-les03.mp4    1hN6Azr9paugGD0e4frFRR_bmr1g1lwns
 
 
-=======================
-
 05-reading--mod00-intro.mp4 1EuGztu-LPz3KdE7R8XkXOLr9MSw6q712
 05-reading--mod01-les01.mp4 14EZ7ASAGY755YmDFOjkCf0pKMWk--biq
 05-reading--mod01-les02.mp4 1sY9ClkqtC-NxqPUL9vcOojknH7deQwhf
@@ -84,6 +82,8 @@
 06-names--les02.mp4 1ll_lSuB-IshxG_ZuDjfBv-sKkSDZNwcV
 06-names--les03.mp4 18YV6QX2C1G5ICgv2MCeKwqclgPd4XGej
 
+
+=======================
 
 07-iq--les01.mp4    1TvF0dHQWPL5B1FpefbSLaLI9f7MGrBgA
 07-iq--les02.mp4    1Gzl4uiJ4Amu9zUOsWHBRRedAz1PZIZb3
