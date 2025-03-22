@@ -1,5 +1,7 @@
 ## 3ton -- gdrive
 
+`~/box/dox/dima/git-ddstor`
+
 <iframe src="https://drive.google.com/file/d//preview" width="640" height="360" allowfullscreen="true"></iframe>
 
 04-poliglot--mod01-les01.mp4    1btaI76nQQr5bxGdBmgEaCtsZKoClo9L8
